@@ -35,6 +35,8 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ### Premium Partners
 
+
+
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
 - **[WebReinvent](https://webreinvent.com/)**
@@ -64,3 +66,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## All Data in on internet for faire  use poilcy of internet 
